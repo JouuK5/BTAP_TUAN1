@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">rgb</string>
+    <string name="title">Enter three color to see the result!!</string>
+</resources>

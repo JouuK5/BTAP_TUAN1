@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Save and Restore</string>
+    <string name="gen_random_num">Generate Random Number</string>
+    <string name="ran_num_message">Random Number: %d</string>
+</resources>
